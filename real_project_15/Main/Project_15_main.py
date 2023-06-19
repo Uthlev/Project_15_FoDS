@@ -353,7 +353,7 @@ X = pd.get_dummies(X, columns=object_cols)
 ##### feature selection #####
 
 # Define the range of k values
-k_values = range(14, 17)  #### adjust here computational cost ##### ###best value is around 15
+k_values = range(10, 15)  #### adjust here computational cost ##### ###best value is around 12
 best_f1_score = 0.0
 best_result = None
 
