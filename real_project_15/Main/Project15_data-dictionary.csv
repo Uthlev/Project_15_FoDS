@@ -1,0 +1,32 @@
+﻿Column,Description
+age,age of the patient
+sex,sex patient identifies
+on_thyroxine,whether patient is on thyroxine
+query on thyroxine,*whether patient is on thyroxine
+on antithyroid meds,whether patient is on antithyroid meds
+sick,whether patient is sick
+pregnant,whether patient is pregnant
+thyroid_surgery,whether patient has undergone thyroid surgery
+I131_treatment,whether patient is undergoing I131 treatment
+query_hypothyroid,whether patient believes they have hypothyroid
+query_hyperthyroid,whether patient believes they have hyperthyroid
+lithium,whether patient * lithium
+goitre,whether patient has goitre
+tumor,whether patient has tumor
+hypopituitary,whether patient * hyperpituitary gland
+psych,whether patient * psych
+TSH_measured,whether TSH was measured in the blood
+TSH,TSH level in blood from lab work
+T3_measured,whether T3 was measured in the blood
+T3,T3 level in blood from lab work
+TT4_measured,whether TT4 was measured in the blood
+TT4,TT4 level in blood from lab work
+T4U_measured,whether T4U was measured in the blood
+T4U,T4U level in blood from lab work
+FTI_measured,whether FTI was measured in the blood
+FTI,FTI level in blood from lab work
+TBG_measured,whether TBG was measured in the blood
+TBG,TBG level in blood from lab work
+referral_source,
+target,hyperthyroidism medical diagnosis
+patient_id,unique id of the patient 
