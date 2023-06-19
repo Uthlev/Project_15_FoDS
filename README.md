@@ -44,3 +44,9 @@ Project_15_FoDS_Franssen_Mueller_Rubin_Schumacher
 3. feature improtance
 4. confusion matrix
 ### Binary Random Forest
+1. run the model
+2. performance scores
+3. feature importance
+4. confusion matrix
+### AUC-ROC
+1. ROC curve for decision tree and random forest
