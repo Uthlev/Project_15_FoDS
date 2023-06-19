@@ -1,5 +1,9 @@
 # Project_15_FoDS
 Project_15_FoDS_Franssen_Mueller_Rubin_Schumacher
+## How to Run the Code
+1. open real_project_15
+2. open Main
+3. start Project_15_main.py
 ## Structure
 ### General Information on the Data
 1. cleaning of the data
