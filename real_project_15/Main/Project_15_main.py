@@ -811,7 +811,7 @@ plt.ylabel('Feature')
 plt.title('Binary SVM: Top 10 Features')
 plt.tight_layout()
 #plt.show()
-plt.savefig('../output/SVM_feature_selection_binary.png')
+plt.savefig('../output/SVM_feature_selection_binary.png', dpi = 600)
 plt.clf()
 
 
