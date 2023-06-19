@@ -1,7 +1,7 @@
 # Project_15_FoDS
 Project_15_FoDS_Franssen_Mueller_Rubin_Schumacher
 ## Structure
-### general information on the data
+### General Information on the Data
 1. cleaning of the data
 2. plots to get familiar with the data
 ### Decision Tree
